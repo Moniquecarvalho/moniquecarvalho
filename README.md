@@ -1,4 +1,6 @@
-## Olá! Eu sou a Monique Carvalho 👩🏽‍💻 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
+
+<h1> Olá! Eu sou a Monique Carvalho 👩🏽‍💻 </h1> 
 
 <p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br> Sou <strong>apaixonada por descobrir coisas novas </strong> e usá-las para criar soluções de alta qualidade. <br> Hoje sou uma <strong>Desenvolvedora Frontend de nível júnior</strong> focada em Full Stack.</p>&nbsp;
 
@@ -65,6 +67,8 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/moniquecarvalho
     <a href="https://bit.ly/3YbVKQS" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 <br/>
-<br/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=footer"/>
+
 
 
