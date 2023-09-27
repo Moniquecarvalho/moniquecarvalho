@@ -1,8 +1,19 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=header"/>
+<h1 align="center"><b>Olá! Eu sou Monique Carvalho</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<h1> Olá! Eu sou a Monique Carvalho 👩🏽‍💻 </h1> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=fe428e&size=27&center=true&vCenter=true&width=830&height=100&lines=Apaixonada+por+Descobrir+Coisas+Novas..&hearts;++;E+Usá-las+para+Criar+Soluções+de+Alta+Qualidade.;Desenvolvedora+Front+End+de+Nível+Júnior,;Focada+em+Full+Stack❤️"></a>
+</p>
 
-<p align="center">Eu ❤️ resolvo grandes desafios usando tecnologia. <br> Sou <strong>apaixonada por descobrir coisas novas </strong> e usá-las para criar soluções de alta qualidade. <br> Hoje sou uma <strong>Desenvolvedora Frontend de nível júnior</strong> focada em Full Stack.</p>&nbsp;
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+
+<br>
+
+- Uma desenvolvedora Front-End apaixonada, até conhecer o Back-End 😂
+- Atualmente cursando Full Stack com mentoria no DevQuest
+- [Link](https://moniquecarvalho.github.io/my-portfolio/) do meu site pessoal
+- No momento estou aberto para um Estagiário ou uma nova oportunidade de emprego.
+- Nas horas livres, aproveito momentos de diversão em família.
+<br><br>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=moniquecarvalho&theme=radical&mode=weekly" />
@@ -67,8 +78,9 @@ Por favor, encontre-me no [LinkedIn](https://www.linkedin.com/in/moniquecarvalho
     <a href="https://bit.ly/3YbVKQS" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 <br/>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B327A1&height=120&section=footer"/>
+<br/>
+ 
+![GitHub followers](https://img.shields.io/github/followers/MoniqueCarvalho?style=social) ![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=MoniqueCarvalho.repoName) <img src="https://komarev.com/ghpvc/?username=MoniqueCarvalho" alt="MoniqueCarvalho" />
 
 
 
