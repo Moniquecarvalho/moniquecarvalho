@@ -4,7 +4,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=fe428e&size=27&center=true&vCenter=true&width=830&height=100&lines=Apaixonada+por+Descobrir+Coisas+Novas..&hearts;++;E+Usá-las+para+Criar+Soluções+de+Alta+Qualidade.;Desenvolvedora+Front+End+de+Nível+Júnior,;Focada+em+Full+Stack❤️"></a>
 </p>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
+## <picture>
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mim**
 
 <br>
 
