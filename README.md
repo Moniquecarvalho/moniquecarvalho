@@ -1,6 +1,10 @@
 <h1 align="center">Monique Carvalho 😉</h1> 
 
-Antes de me aventurar na área de TI, fui motorista de van escolar, empreendedora e cuidei da gestão completa do meu negócio. Durante a pandemia, descobri a paixão pela tecnologia e decidi me dedicar 100% aos estudos. Atualmente, estou cursando um programa fullstack e me aprofundando no módulo de front-end, criando interfaces intuitivas e soluções web que unem criatividade e funcionalidade, sempre buscando aprender e crescer como desenvolvedora.
+Antes de ingressar na área de Tecnologia da Informação, atuei como motorista de van escolar e empreendedor, sendo responsável pela gestão completa do meu próprio negócio. Essa trajetória me trouxe habilidades como organização, foco, resiliência e visão estratégica.
+
+Durante a pandemia, descobri minha paixão pela tecnologia e tomei a decisão de me dedicar integralmente aos estudos. Atualmente, estou cursando um programa Full Stack, adquirindo tanto hard skills técnicas quanto soft skills essenciais para atuar de forma completa no desenvolvimento de soluções web que unem criatividade, funcionalidade e uma ótima experiência para o usuário.
+
+Meu propósito é evoluir continuamente como desenvolvedora e aplicar meus conhecimentos para criar experiências digitais que realmente façam diferença para pessoas e empresas.
 
 <h2>🤝 Contatos</h2>
 
